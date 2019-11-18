@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "keywords": [
+    "fluro",
+    "api",
+    "javascript"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,8 +18,12 @@
     "type": "git",
     "url": "git+https://github.com/fluro-developers/create-fluro-app.git"
   },
-  "author": "",
+  "author": "Cade Embery",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluro-developers/create-fluro-app/issues"
+  },
+  "homepage": "https://github.com/fluro-developers/create-fluro-app#readme",
   "dependencies": {
     "async": "^3.1.0",
     "chalk": "^3.0.0",
