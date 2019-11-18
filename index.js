@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+
+
 var _ = require('lodash');
 var async = require('async');
 var Fluro = require('fluro');

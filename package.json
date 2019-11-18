@@ -7,9 +7,7 @@
     "api",
     "javascript"
   ],
-  "bin": {
-    "create-fluro-app": "cli.js"
-  },
+  "bin":"./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fluro-developers/create-fluro-app.git"
