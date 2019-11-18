@@ -15,16 +15,13 @@ You will need:
 2. You’ll need to have Node >= 8.10 and npm >= 5.6 on your machine.
 
 
-### Note
-npx on the first line is not a typo — it’s a package runner tool that comes with npm 5.2+.
 
 
 ## Getting Started
-Create Fluro App is a comfortable environment for learning Fluro, and is the best way to start building a new single-page application to deploy on Fluro.
-
-It sets up your development environment so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production. 
-To register your new application, run:
+Create Fluro App is a comfortable environment for learning Fluro, and is the best way to start building a new Fluro interface.
+To get started, open your terminal and run:
 
 ```bash
 npx create-fluro-app
 ```
+
