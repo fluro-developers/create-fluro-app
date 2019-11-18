@@ -9,6 +9,10 @@
   "bin": {
       "do-the-thing": "cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluro-developers/create-fluro-app.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -17,7 +21,5 @@
     "fluro": "^1.0.74",
     "inquirer": "^7.0.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
-    "papaparse": "^5.0.0"
   }
 }
