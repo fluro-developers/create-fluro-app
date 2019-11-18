@@ -2,17 +2,13 @@
   "name": "create-fluro-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "keywords": [
     "fluro",
     "api",
     "javascript"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
-      "do-the-thing": "cli.js"
+    "create-fluro-app": "cli.js"
   },
   "repository": {
     "type": "git",
@@ -29,6 +25,6 @@
     "chalk": "^3.0.0",
     "fluro": "^1.0.74",
     "inquirer": "^7.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.15"
   }
 }

@@ -1,7 +1,5 @@
-// ./cli.js
-
 #!/usr/bin/env node
 
-let createApplication = require('./index.js')
+let command = require('./index.js')
 
-createApplication()
+command()
